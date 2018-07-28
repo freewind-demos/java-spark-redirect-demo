@@ -1,6 +1,6 @@
-Spark Hello World Demo
-======================
+Spark Redirect Demo
+===================
 
-Run a simplest http service, with [spark](http://sparkjava.com/)
+How to define `redirect` in [spark](http://sparkjava.com/)
 
-Run `Hello.java` in your IDE, then open <http://localhost:4567/hello>
+Run `Hello.java` in your IDE, then open <http://localhost:4567>
