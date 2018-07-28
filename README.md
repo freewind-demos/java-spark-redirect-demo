@@ -1,4 +1,6 @@
-Java Hello World Demo
-=====================
+Spark Hello World Demo
+======================
 
-Run `Hello.java` in your IDE.
+Run a simplest http service, with [spark](http://sparkjava.com/)
+
+Run `Hello.java` in your IDE, then open <http://localhost:4567/hello>
